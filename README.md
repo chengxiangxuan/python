@@ -1,2 +1,2 @@
 # python
-this is about python homework
+这是数据可视化的代码，可以画出线型图，饼图，散点图，折线图
